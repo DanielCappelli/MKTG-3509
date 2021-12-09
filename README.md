@@ -7,6 +7,7 @@ This Portfolio contains several of the class assignments I have completed in my 
 ## Table of Contents
   -Below is a list of the main topic areas that we focused on throughout this course. Some include links to my completed assigments.
 
+
 **1. Fundamentals of Programming for Data Analytics**
 
 **2. Working with Data**
