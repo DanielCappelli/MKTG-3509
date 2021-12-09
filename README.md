@@ -11,21 +11,21 @@ This Portfolio contains several of the class assignments I have completed in my 
 
 **2. Working with Data**
   
-    -[Daniel Cappelli A3](https://colab.research.google.com/drive/1UBMZSUUZoKR_3JhpNSXhlgi2Gq9dGo6z?usp=sharing)  
+  -[Daniel Cappelli A3](https://colab.research.google.com/drive/1UBMZSUUZoKR_3JhpNSXhlgi2Gq9dGo6z?usp=sharing)  
     
-    -In this project I conducted an anlysis of sample yelp reviews for several resturants. Displaying my ability to work with data, and create visuals for that data.
+  -In this project I conducted an anlysis of sample yelp reviews for several resturants. Displaying my ability to work with data, and create visuals for that data.
 
 **3. Data Visualization**
   
-    -[Daniel Cappelli A4](https://colab.research.google.com/drive/1oOC4phoHt1dPuMvGGvgwbjeMZ_BASdrw?usp=sharing)
-  
-    -In this project I analyzed sample review data for a clothing store, and created a variety of diffrent visuals to help understand the data.
+  -[Daniel Cappelli A4](https://colab.research.google.com/drive/1oOC4phoHt1dPuMvGGvgwbjeMZ_BASdrw?usp=sharing)
+ 
+  -In this project I analyzed sample review data for a clothing store, and created a variety of diffrent visuals to help understand the data.
 
 **4. Stats Review**
   
-    -[Daniel Cappelli A5](https://colab.research.google.com/drive/1-CbcBk1saBNYahmqrA7Dw_kDg4qv8yXP?usp=sharing)
-  
-    -In this project I analyzed data for several advertisments and promotions, ultimately conducting statistical test on each.
+  -[Daniel Cappelli A5](https://colab.research.google.com/drive/1-CbcBk1saBNYahmqrA7Dw_kDg4qv8yXP?usp=sharing)
+ 
+  -In this project I analyzed data for several advertisments and promotions, ultimately conducting statistical test on each.
 
 **5. Regression**
 
@@ -35,8 +35,8 @@ This Portfolio contains several of the class assignments I have completed in my 
 
 **8. Clustering and Segmentation**
   
-    -[Daniel Cappelli A9](https://colab.research.google.com/drive/1Ftl1fEcTxcDNLuMT2wgYd_W0N6UrX0qo?usp=sharing)
+  -[Daniel Cappelli A9](https://colab.research.google.com/drive/1Ftl1fEcTxcDNLuMT2wgYd_W0N6UrX0qo?usp=sharing)
     
-    -In this project I worked with sample retail order data. I transfomred and clustered the data to ultimately provide better visualization and analysis.
+  -In this project I worked with sample retail order data. I transfomred and clustered the data to ultimately provide better visualization and analysis.
 
 **9. Text Analysis**
